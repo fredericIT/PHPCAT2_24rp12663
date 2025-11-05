@@ -1,0 +1,7 @@
+body { background: #f8f9fa; }
+.navbar-brand { font-weight: 700; }
+.card { box-shadow: 0 1px 6px rgba(0,0,0,0.05); }
+.table tbody tr:hover { background: #f1f1f1; }
+.btn-primary { transition: transform .12s ease; }
+.btn-primary:hover { transform: translateY(-2px); }
+footer { font-size: .9rem; color: #333; }
